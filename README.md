@@ -22,3 +22,7 @@ The application displays questions, allows users to select answers, and shows th
 - JavaScript
 
 ---
+
+<img wid<img width="660" height="545" alt="Screenshot 2026-04-08 130946" src="https://github.com/user-attachments/assets/309b481e-9938-4ccb-a5a9-e15f905394eb" />
+th="660" height="545" alt="image" src="https://github.com/user-attachments/assets/52209394-220f-4747-bc71-10c4776f9222" />
+
